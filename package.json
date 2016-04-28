@@ -42,6 +42,7 @@
     "react-addons-pure-render-mixin": "^0.14.0",
     "react-addons-transition-group": "^0.14.0",
     "react-addons-update": "^0.14.0",
+    "react-chartist": "^0.10.2",
     "react-dom": "^0.14.0",
     "react-dropzone": "^3.3.2",
     "react-infinite": "^0.7.1",
